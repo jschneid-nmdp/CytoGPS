@@ -1,10 +1,10 @@
-package business;
+package edu.wustl.informatics.cytogps.business;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-import main.TokenError;
+import edu.wustl.informatics.cytogps.main.TokenError;
 
 /**
  * @author Lin Zhang

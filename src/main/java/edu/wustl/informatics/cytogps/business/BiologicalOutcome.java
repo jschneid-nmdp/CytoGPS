@@ -1,4 +1,4 @@
-package business;
+package edu.wustl.informatics.cytogps.business;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -9,8 +9,8 @@ import java.util.Map;
 import java.util.TreeMap;
 import java.util.stream.IntStream;
 
-import toolkit.ChrBreakpointComparator;
-import toolkit.ISCN2016;
+import edu.wustl.informatics.cytogps.toolkit.ChrBreakpointComparator;
+import edu.wustl.informatics.cytogps.toolkit.ISCN2016;
 
 /**
  * @author Lin Zhang

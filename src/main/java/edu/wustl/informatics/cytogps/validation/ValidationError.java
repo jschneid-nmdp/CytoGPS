@@ -1,4 +1,4 @@
-package validation;
+package edu.wustl.informatics.cytogps.validation;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -8,12 +8,12 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import business.Clone;
-import business.DerEvent;
-import business.Event;
-import business.ParseEvent;
-import toolkit.ListComparator;
-import toolkit.Permutation;
+import edu.wustl.informatics.cytogps.business.Clone;
+import edu.wustl.informatics.cytogps.business.DerEvent;
+import edu.wustl.informatics.cytogps.business.Event;
+import edu.wustl.informatics.cytogps.business.ParseEvent;
+import edu.wustl.informatics.cytogps.toolkit.ListComparator;
+import edu.wustl.informatics.cytogps.toolkit.Permutation;
 
 /**
  * @author Lin Zhang

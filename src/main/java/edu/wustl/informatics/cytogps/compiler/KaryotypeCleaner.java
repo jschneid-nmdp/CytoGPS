@@ -1,4 +1,4 @@
-package compiler;
+package edu.wustl.informatics.cytogps.compiler;
 
 import java.util.List;
 

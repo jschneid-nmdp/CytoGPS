@@ -1,4 +1,5 @@
-package validation;
+package edu.wustl.informatics.cytogps.validation;
+
 import java.util.List;
 
 /**

@@ -1,4 +1,4 @@
-package main;
+package edu.wustl.informatics.cytogps.main;
 
 import java.util.List;
 
@@ -9,16 +9,16 @@ import org.antlr.v4.runtime.misc.ParseCancellationException;
 import org.antlr.v4.runtime.tree.ParseTree;
 import org.antlr.v4.runtime.tree.ParseTreeWalker;
 
-import business.BiologicalOutcome;
-import business.Clone;
-import business.FinalResult;
-import business.ParseEvent;
-import compiler.KaryotypeCleaner;
-import compiler.KaryotypeLexer;
-import compiler.KaryotypeLoader;
-import compiler.KaryotypeParser;
-import validation.ValidationError;
-import validation.Validator;
+import edu.wustl.informatics.cytogps.business.BiologicalOutcome;
+import edu.wustl.informatics.cytogps.business.Clone;
+import edu.wustl.informatics.cytogps.business.FinalResult;
+import edu.wustl.informatics.cytogps.business.ParseEvent;
+import edu.wustl.informatics.cytogps.compiler.KaryotypeCleaner;
+import edu.wustl.informatics.cytogps.compiler.KaryotypeLexer;
+import edu.wustl.informatics.cytogps.compiler.KaryotypeLoader;
+import edu.wustl.informatics.cytogps.compiler.KaryotypeParser;
+import edu.wustl.informatics.cytogps.validation.ValidationError;
+import edu.wustl.informatics.cytogps.validation.Validator;
 
 /**
  * @author Lin Zhang

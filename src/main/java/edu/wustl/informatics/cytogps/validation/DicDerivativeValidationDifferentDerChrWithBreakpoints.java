@@ -1,4 +1,4 @@
-package validation;
+package edu.wustl.informatics.cytogps.validation;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -7,9 +7,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import business.DerEvent;
-import business.Event;
-import toolkit.CenComparator;
+import edu.wustl.informatics.cytogps.business.DerEvent;
+import edu.wustl.informatics.cytogps.business.Event;
+import edu.wustl.informatics.cytogps.toolkit.CenComparator;
 
 /**
  * @author Lin Zhang

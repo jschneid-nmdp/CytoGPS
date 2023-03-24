@@ -1,4 +1,5 @@
-package validation;
+package edu.wustl.informatics.cytogps.validation;
+
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -12,8 +13,8 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-import business.DerEvent;
-import business.Event;
+import edu.wustl.informatics.cytogps.business.DerEvent;
+import edu.wustl.informatics.cytogps.business.Event;
 
 /**
  * @author Lin Zhang

@@ -1,4 +1,4 @@
-package toolkit;
+package edu.wustl.informatics.cytogps.toolkit;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -8,11 +8,11 @@ import java.util.List;
 
 import javax.json.*;
 
-import business.BiologicalOutcome;
-import business.FinalResult;
-import main.KaryotypeRunner;
-import main.TokenError;
-import toolkit.ISCN2016;
+import edu.wustl.informatics.cytogps.business.BiologicalOutcome;
+import edu.wustl.informatics.cytogps.business.FinalResult;
+import edu.wustl.informatics.cytogps.main.KaryotypeRunner;
+import edu.wustl.informatics.cytogps.main.TokenError;
+import edu.wustl.informatics.cytogps.toolkit.ISCN2016;
 
 /**
  * @author Lin Zhang

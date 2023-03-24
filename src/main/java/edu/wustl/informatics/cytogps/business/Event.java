@@ -1,4 +1,4 @@
-package business;
+package edu.wustl.informatics.cytogps.business;
 
 import java.util.ArrayList;
 import java.util.List;

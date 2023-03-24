@@ -1,11 +1,11 @@
-package main;
+package edu.wustl.informatics.cytogps.main;
 
 import java.nio.file.Paths;
 import java.time.LocalDateTime;
 
-import toolkit.AggregateCsvForBatchFile;
-import toolkit.AggregateJsonForBatchFile;
-import toolkit.SummaryStatisticsForBatchFile;
+import edu.wustl.informatics.cytogps.toolkit.AggregateCsvForBatchFile;
+import edu.wustl.informatics.cytogps.toolkit.AggregateJsonForBatchFile;
+import edu.wustl.informatics.cytogps.toolkit.SummaryStatisticsForBatchFile;
 
 
 /**

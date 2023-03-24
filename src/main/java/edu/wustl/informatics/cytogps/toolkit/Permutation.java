@@ -1,4 +1,4 @@
-package toolkit;
+package edu.wustl.informatics.cytogps.toolkit;
 
 import java.util.ArrayList;
 import java.util.List;

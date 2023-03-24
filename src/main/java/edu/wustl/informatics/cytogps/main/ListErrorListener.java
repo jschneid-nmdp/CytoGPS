@@ -1,4 +1,4 @@
-package main;
+package edu.wustl.informatics.cytogps.main;
 
 import java.util.ArrayList;
 import java.util.List;

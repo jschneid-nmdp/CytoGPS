@@ -1,4 +1,4 @@
-package validation;
+package edu.wustl.informatics.cytogps.validation;
 
 /**
  * @author Lin Zhang

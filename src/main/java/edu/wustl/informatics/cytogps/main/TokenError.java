@@ -1,4 +1,4 @@
-package main;
+package edu.wustl.informatics.cytogps.main;
 
 /**
  * @author Lin Zhang

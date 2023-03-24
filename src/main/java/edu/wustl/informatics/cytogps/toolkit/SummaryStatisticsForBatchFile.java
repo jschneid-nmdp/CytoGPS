@@ -1,4 +1,4 @@
-package toolkit;
+package edu.wustl.informatics.cytogps.toolkit;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -14,9 +14,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.IntStream;
 
-import business.BiologicalOutcome;
-import business.FinalResult;
-import main.KaryotypeRunner;
+import edu.wustl.informatics.cytogps.business.BiologicalOutcome;
+import edu.wustl.informatics.cytogps.business.FinalResult;
+import edu.wustl.informatics.cytogps.main.KaryotypeRunner;
 
 /**
  * @author Lin Zhang

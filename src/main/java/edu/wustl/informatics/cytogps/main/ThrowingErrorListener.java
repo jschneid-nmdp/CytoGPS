@@ -1,4 +1,4 @@
-package main;
+package edu.wustl.informatics.cytogps.main;
 
 import org.antlr.v4.runtime.BaseErrorListener;
 import org.antlr.v4.runtime.RecognitionException;

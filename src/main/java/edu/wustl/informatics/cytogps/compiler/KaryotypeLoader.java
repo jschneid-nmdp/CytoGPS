@@ -1,13 +1,13 @@
-package compiler;
+package edu.wustl.informatics.cytogps.compiler;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import business.Clone;
-import business.DerEvent;
-import business.Event;
+import edu.wustl.informatics.cytogps.business.Clone;
+import edu.wustl.informatics.cytogps.business.DerEvent;
+import edu.wustl.informatics.cytogps.business.Event;
 
 /**
  * @author Lin Zhang

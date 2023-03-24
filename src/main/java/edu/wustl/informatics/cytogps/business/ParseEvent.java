@@ -1,4 +1,4 @@
-package business;
+package edu.wustl.informatics.cytogps.business;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;
@@ -12,15 +12,15 @@ import java.util.Set;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-import validation.DerivativeValidation;
-import validation.DerivativeValidationOutcome;
-import validation.DicDerivativeValidationDifferentDerChrNoBreakpoints;
-import validation.DicDerivativeValidationDifferentDerChrWithBreakpoints;
-import validation.DicDerivativeValidationSameDerChrSameArmWithBreakpoints;
-import validation.DicDerivativeValidationSameDerChrNoBreakpoints;
-import validation.IderValidation;
-import validation.ValidationError;
-import validation.Validator;
+import edu.wustl.informatics.cytogps.validation.DerivativeValidation;
+import edu.wustl.informatics.cytogps.validation.DerivativeValidationOutcome;
+import edu.wustl.informatics.cytogps.validation.DicDerivativeValidationDifferentDerChrNoBreakpoints;
+import edu.wustl.informatics.cytogps.validation.DicDerivativeValidationDifferentDerChrWithBreakpoints;
+import edu.wustl.informatics.cytogps.validation.DicDerivativeValidationSameDerChrSameArmWithBreakpoints;
+import edu.wustl.informatics.cytogps.validation.DicDerivativeValidationSameDerChrNoBreakpoints;
+import edu.wustl.informatics.cytogps.validation.IderValidation;
+import edu.wustl.informatics.cytogps.validation.ValidationError;
+import edu.wustl.informatics.cytogps.validation.Validator;
 
 /**
  * @author Lin Zhang
