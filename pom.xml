@@ -11,7 +11,7 @@
     <groupId>edu.wustl.informatics</groupId>
     <artifactId>cytogps</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.21-SNAPSHOT</version>
 
     <name>CytoGPS - CytoGenetic Pattern Sleuth</name>
     <description>ISCN-based karyotype parser</description>
